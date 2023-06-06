@@ -1,4 +1,4 @@
 # SE
-Second year engineering dsa 
+Second Tear Engineering DSA 
 
 This is useful for SPPU(Pune university)
